@@ -1,0 +1,12 @@
+---
+title: "Situación Problema Evidencia"
+author: "Alondra Ramón"
+date: "2023-05-11"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Arca Continental 
